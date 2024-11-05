@@ -4,8 +4,6 @@
 
 #### The time has come! We are going to connect the front-end (HTML) to the back-end (JS)!
 
-**If you missed the live demonstration in class, read below. Otherwise you can go straight to [your task](./YOUR_TASK.md).**
-
 ## 🔍 "Talking to" HTML Elements from JavaScript
 
 **Unique IDs:** All HTML elements you wish to control with JavaSscript _must_ have a unique identifier.
